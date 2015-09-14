@@ -7,5 +7,6 @@ Speakers please send a PR with links to your slides and related posts!! Thanks :
 ## Talks
 
 * Yan Cui - [A Tour of the language landscape](http://www.slideshare.net/theburningmonk/tour-of-language-landscape-katsconf)
+* Claudia Doppioslash - [REPL your way into Android development with Clojure](http://slides.com/doppioslash/repl-your-way-into-android-development-functionalkats)
 
 ## Feedback
